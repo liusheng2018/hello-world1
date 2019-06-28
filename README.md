@@ -1,4 +1,4 @@
 # hello-world1
-I love fxylpg.
-i am liusheng. channel estimation. OFDM
-ieee icc 2019 上海
+I think fxylpg is a wonderful girl.
+I am Liusheng.
+My reserch domain is channel estimation.
